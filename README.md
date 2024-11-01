@@ -12,3 +12,8 @@ conda activate visa
 ```bash
 pip install -r requirements.txt
 ``` 
+
+## Activate Virtual Environment
+```bash
+conda activate visa_prediction_env
+```
